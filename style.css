@@ -1,0 +1,25 @@
+.header{
+    background-color: yellow;
+    position: absolute;
+    height: 10%;
+    width: 100%;
+}
+.logo{
+    background-color: blue;
+    position: absolute;
+    height: 8%;
+    width: 5%;
+    margin-top: .5%;
+    margin-left: 1%;
+}
+.nav{
+    background-color:brown;
+    position: absolute;
+    height: 8%;
+    width: 40%;
+    margin-top: .5%;
+    margin-left: 58%;
+}
+.logo:hover{
+    background-color: white;
+}  
